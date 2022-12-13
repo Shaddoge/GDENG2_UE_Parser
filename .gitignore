@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+GDENG2_UE_Parser/Binaries/
+GDENG2_UE_Parser/Config/
+GDENG2_UE_Parser/Saved/
+GDENG2_UE_Parser/Intermediate/
